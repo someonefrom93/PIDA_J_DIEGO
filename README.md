@@ -27,8 +27,8 @@ pip install -r requirements.txt`
 About the Analysis
 - The ETL.ipynb notebook extracts data from CoinGecko API and preprocesses it for analysis.
 
-        You will find this pipeline in the notebook 
-        ![pipeline](images/readme_images/pipeline.JPG)
+You will find this pipeline in the notebook 
+![pipeline](images/readme_images/pipeline.JPG)
 
 - The EDA.ipynb notebook focuses on exploratory data analysis, including the creation and analysis of Key Performance Indicators (KPIs).
 KPIs developed include 
@@ -46,7 +46,6 @@ KPIs developed include
         - Ranges of each coin
         - Volatility
         - Patterns across time
-        - Corralation between currencies
 
 Finally the KPIs chosen for decission making are going to be:
 
